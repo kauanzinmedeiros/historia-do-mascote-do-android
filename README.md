@@ -3,4 +3,4 @@ Este site foi desenvolvido como um projeto de estudo, no qual utilizei um site c
 
 Site utilizado como referência: ildm.neocities.org
 
-<a href=""></a>
+<a href="mascote android/index.html">>>>Clique Aqui!<<<</a>
